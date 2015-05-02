@@ -1,7 +1,7 @@
-baseurl = "http://hugo.spf13.com/"
-title = "Hugo Themes"
-author = "Steve Francia"
-copyright = "Copyright (c) 2008 - 2014, Steve Francia; all rights reserved."
+baseurl = "http://www.ethanmad.com/"
+title = "Ethan Madison"
+author = "Ethan Madison"
+copyright = "Copyright (c) 2015, Ethan Madison; all rights reserved."
 canonifyurls = true
 paginate = 3
 
