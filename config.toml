@@ -5,7 +5,10 @@ copyright = "Copyright (c) 2015, Ethan Madison; all rights reserved."
 canonifyurls = true
 paginate = 3
 
-# Needed by Theme demos in exampleSite.
 [params]
-  DateForm = "Mon, Jan 2, 2006"
-
+  twitter = "_ethanmad"
+  github = "ethanmad"
+  stackoverflow = "ethanmad"
+  linkedin = "ethanmadison"
+  author = "Ethan Madison"
+  contact = "mailto:hello@ethanmad.com"
