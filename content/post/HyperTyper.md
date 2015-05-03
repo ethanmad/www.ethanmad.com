@@ -1,6 +1,6 @@
 +++
 date = "2015-05-01T21:04:58-08:00"
-draft = true
+draft = false
 title = "HyperTyper"
 
 +++
