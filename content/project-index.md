@@ -15,10 +15,10 @@ title = "Project Index"
 
 ## Past (ordered somewhat chronologically)
   - [openpad](https://openpad.github.io): A platform for using Andoid & iOS devices as input devices on C++-capable devices. Built with [@jameslennon321][james] & [@TheSafo][safo].
-  - [LivingPlanet](https://github.com/TheWashingtonRedskins/LivingPlanet): My submission to and a finalist in the 2014 Koding Global Hackathon. A [Meteor](https://meteor.com) site built demonstrating issues on our planet. Built with [@paralin][paralin], [@jameslennon321][james], [@TheSafo][safo], & [@dwoldenberg1][wold] (GitHub usernames).
+  - [LivingPlanet](http://livingplanet.paral.in/): My submission to and a finalist in the 2014 Koding Global Hackathon. A [Meteor](https://meteor.com) site built demonstrating issues on our planet. Built with [@paralin][paralin], [@jameslennon321][james], [@TheSafo][safo], & [@dwoldenberg1][wold] (GitHub usernames).
   - School Java Networking Projects: [ChatServer](http://github.com/ethanmad/ChatServer), [HTTPServer](https://github.com/ethanmad/HTTPServer)
-  - [HyperTyper](http://ethanmad.com/HyperTyper): A typing "aid" (it's a tool to cheat in games like [TypeRacer](http://typeracer.com)).
   - [En Garde](http://ethanmad.com/En-Garde): An Android fencing scorekeeper built to be fast, pretty, and functional.
+  - [HyperTyper](http://ethanmad.com/HyperTyper): A typing "aid" (it's a tool to cheat in games like [TypeRacer](http://typeracer.com)).
   - [Coo](http://ethanmad.com/coo-mc): A Minecraft escape map I built with [my brother Tommy](http://tom.ethanmad.com) some years ago.
   - Anything else on [my GitHub](https://github.com/ethanmad)
 
@@ -27,3 +27,5 @@ title = "Project Index"
   [safo]: https://github.com/thesafo
   [paralin]: https://github.com/paralin
   [wold]: https://github.com/dwoldenberg1
+
+*Current as of 2015-05-04.*
