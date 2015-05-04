@@ -1,14 +1,17 @@
 baseurl = "http://www.ethanmad.com/"
 title = "Ethan Madison"
-author = "Ethan Madison"
-copyright = "Copyright (c) 2015, Ethan Madison; all rights reserved."
-canonifyurls = true
-paginate = 3
+languageCode = "en-us"
+MetaDataFormat = "toml"
+copyright = "&copy; Ethan Madison 2015"
+theme = "vienna"
+
 
 [params]
   twitter = "_ethanmad"
   github = "ethanmad"
-  stackoverflow = "ethanmad"
   linkedin = "ethanmadison"
+  googleplus = "ethanmad"
   author = "Ethan Madison"
   contact = "mailto:hello@ethanmad.com"
+  bio = "I'm a high-school senior and software developer."
+  subtitle = "is a high-school senior and software developer."
