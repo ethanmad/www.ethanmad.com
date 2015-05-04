@@ -3,13 +3,14 @@ title = "Ethan Madison"
 languageCode = "en-us"
 MetaDataFormat = "toml"
 copyright = "&copy; Ethan Madison 2015"
-theme = "vienna"
+theme = "losangeles"
 
 
 [params]
   twitter = "_ethanmad"
   github = "ethanmad"
   linkedin = "ethanmadison"
+  stackoverflow = "2264460"
   googleplus = "ethanmad"
   author = "Ethan Madison"
   contact = "mailto:hello@ethanmad.com"
