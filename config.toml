@@ -3,7 +3,7 @@ title = "Ethan Madison"
 languageCode = "en-us"
 MetaDataFormat = "toml"
 copyright = "&copy; Ethan Madison 2015"
-theme = "losangeles"
+theme = "vienna"
 
 
 [params]
