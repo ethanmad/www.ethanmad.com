@@ -1,4 +1,6 @@
 +++
+Description = "A tool to cheat in typing games."
+Tags = ["HyperTyper", "Chrome extension", "programming", "JavaScript"]
 date = "2015-05-01T21:04:58-08:00"
 draft = false
 title = "HyperTyper"
