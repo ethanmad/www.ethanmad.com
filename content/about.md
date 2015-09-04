@@ -8,10 +8,9 @@ I'm Ethan Madison; I'm from Los Angeles and am a freshan at the University of Mi
 I write code, play drums, and fence in my free time.
 
 ## What is this site?
-I have a dog named Hugo, which is part of the reason I chose Hugo as my static site generator.
+This website serves as a blog and project showcase. I plan on writing up post-mortems and summaries after completing a project in addition to normal blog posts.
 
-This website serves as a blog and project showcase. I'll try to make a writeup for each project I complete and maybe make some other posts.
-We'll see.
+The site is powered by [Hugo](https://www.gohugo.io), which is coincidentally the name of [my dog](https://goo.gl/photos/gBoKEjAPGKBhmByP9 "Hugo the browser history inspector!").
 
 ## Projects
 See [Project Index](/project-index) for a list of my projects.
@@ -27,5 +26,6 @@ You can contact me or find me through the following:
   - [reddit](https://reddit.com/u/ethanmad)
   - [StackOverflow](http://stackoverflow.com/users/2264460/ethanmad)
   - [Soundcloud](https://soundcloud.com/ethanmad)
+  - [Keybase](https://keybase.io/ethanmad "Find my PGP keys here")
 
 If I haven't listed a service you want to connect with me on, search for `ethanmad` and you may find me.
