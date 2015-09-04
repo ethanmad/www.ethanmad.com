@@ -4,7 +4,7 @@ date = "2015-05-01"
 menu = "main"
 +++
 
-I'm Ethan Madison, a current high school senior at Harvard-Westlake School in Los Angeles.
+I'm Ethan Madison; I'm from Los Angeles and am a freshan at the University of Michigan.
 I write code, play drums, and fence in my free time.
 
 ## What is this site?
