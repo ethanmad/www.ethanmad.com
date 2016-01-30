@@ -1,7 +1,7 @@
 +++
 title = "About Me"
-date = "2015-05-01"
 menu = "main"
+noshowdate = true
 +++
 
 I'm Ethan Madison; I'm from Los Angeles and am a freshan at the University of Michigan.
