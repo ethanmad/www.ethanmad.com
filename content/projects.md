@@ -1,7 +1,7 @@
 +++
 Description = "An index of my projects of the past and present."
 Tags = ["projects", "programming"]
-title = "Project Index"
+title = "Projects"
 noshowdate = true
 +++
 

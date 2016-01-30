@@ -13,7 +13,7 @@ This website serves as a blog and project showcase. I plan on writing up post-mo
 The site is powered by [Hugo](https://www.gohugo.io), which is coincidentally the name of [my dog](https://goo.gl/photos/gBoKEjAPGKBhmByP9 "Hugo the browser history inspector!").
 
 ## Projects
-See [Project Index](/project-index) for a list of my projects.
+See [Projects](/project) for a list of my projects.
 
 ## Connect
 You can contact me or find me through the following:
