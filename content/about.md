@@ -1,17 +1,19 @@
 +++
-title = "About Me"
+title = "About"
 menu = "main"
 noshowdate = true
 +++
 
 I'm Ethan Madison.
-I was born and raised in Los Angeles and am currently a freshman at the University of Michigan--Ann Arbor.
+I was born and raised in Los Angeles and am currently a student at the University of Michigan--Ann Arbor.
 I [write code](https://github.com/ethanmad), [play drums](/post/drum-recording), and [fence](/post/A-in-Epee) for fun.
 
 ## What is this site?
-This website serves as a blog and project showcase. I plan on writing up post-mortems and summaries after completing a project in addition to normal blog posts.
+This website serves as a blog and project showcase. I plan on writing up summaries after completing a project in addition to normal blog posts.
 
 The site is powered by [Hugo](https://www.gohugo.io), which is coincidentally also the name of [my dog](https://lh3.googleusercontent.com/Wo1P8Pck7Y-dUEF0QkHxT91OYTKuYaBIJ5gqdju4SWjlclvOJVFta-0loSQ6XO3oP6CXQzCsMhk2wJ6Res98ckRn0uz47In18vWXYe2qd0RAZW6AzBxTHO8BkoIconyuW4MnsxQjkjqsDmHEjzdkSuMId2S0V2XNOdIf8vnNb3bLKg4giRTAlQPB4lTtj_gebBro4KZ5nEHKroI3MlJL2x4H6cQ2j7-ukLeHoCjmhOzZiPy439y2jmvi5pygugxAFjw7iER7Qv8OdxtOPVwX56n9fpptnGZpdTT1HIQSNXoF47Vb9Co80uEH1GlaEh-tpzY9CrAXmIJYgoxXJtn-0eRkbcEOtU-toi8byQHq5pXbmMgcZk70rXw91qcbqahimJq7_nRYqWE-JTnYHhyqbp38KtlpshpjYY55V2rT-GEyyUYNMpM90xJq1kYMP35ua7r86KcF5NUpIU0UW8G-Y6PHIlRDvLP9TyD79XB13GMMlP9UPx1p9GDBzeyyD58k1fnPddPoLXCJDx3pBleaK1skhA2wQgBmA9llAEjSFec6V83RYdFpi8n5FGMfVLXRRQV8=s1278-no "A picture of him inspecting my browser history.").
+
+The website's source is available [on GitHub](https://github.com/ethanmad/hugo_site).
 
 ## Projects
 See [Projects](/projects) for a list of my projects.
