@@ -7,6 +7,7 @@ noshowdate = true
 I'm Ethan Madison.
 I was born and raised in Los Angeles and am currently a student at the University of Michigan--Ann Arbor.
 I [write code](https://github.com/ethanmad), [play drums](/post/drum-recording), and [fence](/post/A-in-Epee) for fun.
+My PGP fingerprint is [53525058FB8695B7](https://keybase.io/ethanmad#show-public).
 
 ## What is this site?
 This website serves as a blog and project showcase. I plan on writing up summaries after completing a project in addition to normal blog posts.
