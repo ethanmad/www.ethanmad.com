@@ -1,19 +1,30 @@
 baseurl = "https://www.ethanmad.com/"
-title = "Ethan Madison"
+title = "Ethan Madison's website"
 languageCode = "en-us"
 MetaDataFormat = "toml"
-copyright = "&copy; Ethan Madison 2016"
-theme = "vienna"
+copyright = "&copy; Ethan Madison 2019"
+theme = "hugo-xmin"
+footnotereturnlinkcontents = "↩"
+PygmentsStyle = "friendly"
 
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 2
+[[menu.main]]
+    name = "Projects"
+    url = "projects/"
+    weight = 3
+[[menu.main]]
+    name = "Tags"
+    url = "tags/"
+    weight = 4
 
 [params]
-  github = "ethanmad"
-  linkedin = "ethanmadison"
-  googleplus = "ethanmad"
-  keybase = "ethanmad"
-  author = "Ethan Madison"
-  contact = "mailto:hello@ethanmad.com"
-  avatar = "/images/avatar.png"
-  bio = "A computer science and pre-med student at the University of Michigan, software developer, and fencer."
-  subtitle = "is a computer science and pre-med student at the University of Michigan, software developer, and fencer."
-  themecolor = "#D9B17E"
+    description = "Ethan Madison's website"
+    footer = "&copy; Ethan Madison 2019"
+    avatar = "/about/headshot-circle-fs8.png"
