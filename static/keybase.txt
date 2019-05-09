@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ethanmad
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.ethanmad.com
+  * I am ethanmad (https://keybase.io/ethanmad) on keybase.
+  * I have a public key ASCQiEagLwaTxksypTAFEv02C3dGkDhSXgVMT3UuMIzWDgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ddc237d95340e9a0bc3c3758d6144afa7ed2e2ca1d5dbd7a3d7238c661af78b80a",
+      "host": "keybase.io",
+      "kid": "0120908846a02f0693c64b32a5300512fd360b77469038525e054c4f752e308cd60e0a",
+      "uid": "2a83929453ec5b05ae8e3fb6d2bbb719",
+      "username": "ethanmad"
+    },
+    "merkle_root": {
+      "ctime": 1557438224,
+      "hash": "1945604726a880fc7f46cb05c0f8c41035428df393dd4962421b7ed3bc660528f1ef097e46f298e0ecb4aad3191893c4bee478a5d5e8b07b46b2bc2fa039965b",
+      "hash_meta": "4961ff31570ef6897e8bae429a931c22df775dac2d8b7ceaf16fa2fb86096fba",
+      "seqno": 5338787
+    },
+    "service": {
+      "entropy": "hJRFx1avX11/iGxfK2JNT/oK",
+      "hostname": "www.ethanmad.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1557438234,
+  "expire_in": 504576000,
+  "prev": "92c4a14d3a11609b85e5f4540ccd90fb6eefc6a51d43c48eef4b486af32e7cf3",
+  "seqno": 48,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkIhGoC8Gk8ZLMqUwBRL9Ngt3RpA4Ul4FTE91LjCM1g4Kp3BheWxvYWTESpcCMMQgksShTToRYJuF5fRUDM2Q+27vxqUdQ8SO70tIavMufPPEIFUE/PV+LRBNEKAftwGgZDMCU05vwEa5EQfRK0t1ynFQAgHCo3NpZ8RAJM/QIKkR+k39JRSu6qLW4YBfRJljSVPil3oEDqhZxJkz0Ed/WmTW7phMY+IFFO/E5/Bn9d12YrMuv3UjxOsQC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDttUe+zJqUzwfTviuPOBbItTDWxipCs0UXi2LA5oxzto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ethanmad
+
+==================================================================
