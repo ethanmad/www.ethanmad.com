@@ -14,9 +14,10 @@ resources:
 
 {{< avatar >}}
 
-I'm Ethan Madison. I was born and raised in Los Angeles and am currently a computer science student at the University of Michigan--Ann Arbor. I [write code](https://github.com/ethanmad) and [fence](http://umich.edu/~fencing) for fun.
+I'm Ethan Madison.
+From Los Angeles, I attended the University of Michigan—Ann Arbor, where I received my degree in computer science.  During my time at Michigan, I was a member of the [fencing team](http://umich.edu/~fencing) on which I served as president and captain and won three national championships.  Besides fencing, I also [write code](https://github.com/ethanmad) for fun.  I am passionate about Free software, security, algorithms, and healthcare.
 
-I am a graduating senior and am looking for employment!
+I am back in Los Angeles and am looking for employment!
 
 <!--more-->
 
