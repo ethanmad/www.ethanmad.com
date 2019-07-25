@@ -7,9 +7,9 @@ lastmod: "2019-03-31"
 
 ## Current
   - **Fencing conference management software** (Spring/Summer 2019): An upcoming web app resulting from my frustration with handling of fencing conference seeding and results. The app will handle everything from results entry to ranking algorithms to championship seeding for teams and individual fencers. I hope to bring modern rankings methods, like Elo, to fencing in this endeavor. Updates to come.
-  - [**elo**](https://github.com/ethanmad/elo): An Elo rating library written in pure Go. Written in Go, this library was built to be used as a rating provider for the above software.  Written with Zach Zipper.
-
+ 
 ## Past
+  - [**elo**](https://github.com/ethanmad/elo) (Spring 2019): An Elo rating library written in Go as a way to explore basic Go functionality. This library was built to be used as a rating provider for the above software.  Written with Zach Zipper.
   - **Operating Systems projects** (Winter 2019): Implemented a disk scheduler, threading library, virtual memory manager/pager, and a multi-threaded networked file system as part of EECS 482 Operating Systems.
   - [**Collabrify Venn**](https://venndiagram.imlc.io/) (Winter 2019): A real-time collaborative Venn diagramming web app built to help elementary school students and classrooms collaborate on Venn diagrams. Built as part of Dr. Eliott Soloway's [Integalactic Mobile Learning Center](http://www.imlc.io/) suite of apps, for his EECS 441 class, with Matt Kong and Barrett Fitzgerald. Built with React, Javascript, and broccoli. Tested with 3rd graders at Brick Elementary School in Ypsilanti, MI.
   - [**University of Michigan Fencing Club Website**](http://umich.edu/~fencing) (Spring 2016 -- Winter 2019): I became webmaster in 2016 and realized that the site was difficult to update, edit, and keep consistent. I rebuilt the site Summer 2016 using Hugo to allow for easy updates, consistent theming, templating, and easy contributions from teammates. [Source](https://github.com/UM-Fencing/UMFC-Website).
