@@ -7,7 +7,7 @@ lastmod: "2019-03-31"
 
 ## Current
   - **Fencing conference management software** (Spring/Summer 2019): An upcoming web app resulting from my frustration with handling of fencing conference seeding and results. The app will handle everything from results entry to ranking algorithms to championship seeding for teams and individual fencers. I hope to bring modern rankings methods, like Elo, to fencing in this endeavor. Updates to come.
- 
+
 ## Past
   - [**elo**](https://github.com/ethanmad/elo) (Spring 2019): An Elo rating library written in Go as a way to explore basic Go functionality. This library was built to be used as a rating provider for the above software.  Written with Zach Zipper.
   - **Operating Systems projects** (Winter 2019): Implemented a disk scheduler, threading library, virtual memory manager/pager, and a multi-threaded networked file system as part of EECS 482 Operating Systems.
@@ -24,5 +24,5 @@ lastmod: "2019-03-31"
   - **Java networking projects** (Fall 2014): [ChatServer](http://github.com/ethanmad/ChatServer), [HTTPServer](https://github.com/ethanmad/HTTPServer).
   - [**En Garde**](http://ethanmad.com/En-Garde) (Summer 2014): An Android fencing scorekeeper built to be fast, pretty, and functional.
   - [**HyperTyper**](http://ethanmad.com/post/HyperTyper) (Spring 2014): A bookmarklet and (now non-functional) Chrome Extension to cheat in typing competitions and games.
-  - [**Coo**](http://ethanmad.com/coo-mc): A Minecraft escape map I built with [my brother Tommy](http://tom.ethanmad.com) some years ago.
+  - [**Coo**](http://ethanmad.github.io/coo-mc): A Minecraft escape map I built with [my brother Tommy](http://tom.ethanmad.com) some years ago.
   - Anything else on [my GitHub](https://github.com/ethanmad).
