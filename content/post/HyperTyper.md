@@ -1,21 +1,20 @@
 ---
-Description: 'A tool to cheat in typing games.'
+Description: 'The tool to increase apparent typing speed'
 Tags: ['programming', 'project', 'javascript', 'web']
 date: "2015-05-01T21:04:58-08:00"
 title: 'HyperTyper'
 emoji: ':computer:'
 resources:
-    - text: 'site'
-      glyph: 'network-2'
-      url: '/HyperTyper'
-    - text: 'store'
-      glyph: 'store'
     - text: 'code'
       glyph: 'code'
       url: 'https://github.com/ethanmad/HyperTyper'
+    - text: 'site'
+      glyph: 'network-2'
+      url: 'https://ethanmad.github.io'
+blurb: 'I created HyperTyper as a cheat for games like TypeRacer et al. in high school as a Chrome extension and bookmarklet. Since then, some part of the Chrome extension API broke and I removed the extension from the Chrome store.  The tool is stil available as a working bookmarklet, though some sites (notably TypeRacer) have implemented defenses against it. The following text is the associated write-up I published along with the project on my original website.'
+
 ---
 
-<img src="https://raw.githubusercontent.com/ethanmad/HyperTyper/master/res/hypertyper%20128.png" style="max-width:100%;" alt="HyperTyper logo" />
 
   HyperTyper is a tool to help those who can't type compete in typing competitions, like [TypeRacer][typeracer] and [10FastFingers][10ff].
   I aim to reduce discrimination against non- or transtypers from heterotypers by eliminating the social construct that is the keyboard. Switching layouts or not knowing how to type should not mean you have to repeatedly feel the pain of losing.
@@ -44,9 +43,8 @@ resources:
 
   Finally, to make the project more widely usable (net necessarily useful given it's function and purpose), I made it simple to add compatibility with new (but functionally similar) websites by feeding in two arrays with the identifiers (either a name or class) of the text to type and the input field. Because the identifiers are either names or classes, HyperTyper knows which to expect based on the website it's being used on.
 
-  After I added support for all the sites I could find, I uploaded the extension to the [Chrome Web Store][webstore] and also figured out how to make a [HyperTyper bookmarklet][bookmarklet] so as not to leave out users of other browsers.
+  After I added support for all the sites I could find, I uploaded the extension to the Chrome Web Store and also figured out how to make a [HyperTyper bookmarklet][bookmarklet] so as not to leave out users of other browsers.
 
-  [webstore]: https://chrome.google.com/webstore/detail/hypertyper/emlnlmijjaghanenmpdjdckanpdinpgn?hl=en "Click install!"
   [bookmarklet]: javascript:(function()%7Bfor(var%20textOptions%3D%5B%22nonHideableWords%20unselectable%22%2C%22cw-QuotePanel-textToTypePanel%22%2C%22row1%22%2C%22practiceText%22%2C%22textData%22%5D%2CinputBoxOptions%3D%5B%22txtInput%22%2C%22cw-TypedinputBox%20race-go%22%2C%22form-control%22%2C%22tentry%22%2C%22userData%22%5D%2Cwebsite%3D-1%2CclassOrId%3D-1%2Cw%3D0%3Bw%3CtextOptions.length%3Bw%2B%2B)if(null!%3Ddocument.getElementsByClassName(textOptions%5Bw%5D)%5B0%5D)%7Bwebsite%3Dw%3BclassOrId%3D0%3Bbreak%7Delse%20if(null!%3Ddocument.getElementById(textOptions%5Bw%5D))%7Bwebsite%3Dw%3BclassOrId%3D1%3Bbreak%7Dif(-1%3Cwebsite%26%26-1%3CclassOrId)%7Bvar%20text%3B0%3D%3D%3DclassOrId%3Ftext%3Ddocument.getElementsByClassName(textOptions%5Bwebsite%5D)%5B0%5D.textContent%3A1%3D%3D%3DclassOrId%26%26(text%3Ddocument.getElementById(textOptions%5Bwebsite%5D).textContent)%3Bvar%20numWords%3Dtext.split(%22%20%22).length%2CinputBox%3Bnull!%3Ddocument.getElementsByClassName(inputBoxOptions%5Bwebsite%5D)%5B0%5D%3FinputBox%3Ddocument.getElementsByClassName(inputBoxOptions%5Bwebsite%5D)%5B0%5D%3Anull!%3Ddocument.getElementById(inputBoxOptions%5Bwebsite%5D)%26%26(inputBox%3Ddocument.getElementById(inputBoxOptions%5Bwebsite%5D))%3Bi%3D0%3Bvar%20addWord%3Dfunction()%7Bif(!(i%3E%3DnumWords))if(word%3Dtext.split(%22%20%22)%5Bi%2B%2B%5D%2C3%3D%3D%3Dwebsite)for(inputBox.value%3D%22%22%2Cl%3D0%3Bl%3Cword.length%3Bl%2B%2B)inputBox.value%2B%3Dword%5Bl%5D%3Belse%20inputBox.value%3Dword%7D%3BaddWord()%3Bwindow.onkeyup%3Dfunction(a)%7B32%3D%3D(a.keyCode%3Fa.keyCode%3Aa.which)%26%26addWord()%7D%7D%7D)() "Drag to your bookmarks bar!"
 
 ## Accomplishments
