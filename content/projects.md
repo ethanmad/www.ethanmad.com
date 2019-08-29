@@ -22,7 +22,7 @@ lastmod: "2019-03-31"
   - [**LivingPlanet**](https://github.com/TheWashingtonRedskins/LivingPlanet) (December 2014): My submission to and a finalist in the 2014 Koding Global Hackathon. A Meteor site demonstrating issues on our planet. Built with Christian Stewart, James Lennon, Jake Saferstein, & David Woldenberg.
   - [**openpad**](https://openpad.github.io) (Fall 2014): A platform for using Android & iOS devices as input devices on C++-capable devices. Built with James Lennon & Jake Saferstein.
   - **Java networking projects** (Fall 2014): [ChatServer](http://github.com/ethanmad/ChatServer), [HTTPServer](https://github.com/ethanmad/HTTPServer).
-  - [**En Garde**](http://ethanmad.com/En-Garde) (Summer 2014): An Android fencing scorekeeper built to be fast, pretty, and functional.
-  - [**HyperTyper**](http://ethanmad.com/post/HyperTyper) (Spring 2014): A bookmarklet and (now non-functional) Chrome Extension to cheat in typing competitions and games.
-  - [**Coo**](http://ethanmad.github.io/coo-mc): A Minecraft escape map I built with [my brother Tommy](http://tom.ethanmad.com) some years ago.
+  - [**En Garde**](https://ethanmad.github.io/En-Garde) (Summer 2014): An Android fencing scorekeeper built to be fast, pretty, and functional.
+  - [**HyperTyper**](https://ethanmad.com/post/HyperTyper) (Spring 2014): A bookmarklet and (now non-functional) Chrome Extension to cheat in typing competitions and games.
+  - [**Coo**](https://ethanmad.github.io/coo-mc): A Minecraft escape map I built with [my brother Tommy](http://tom.ethanmad.com) some years ago.
   - Anything else on [my GitHub](https://github.com/ethanmad).

@@ -10,7 +10,7 @@ resources:
       url: 'https://github.com/ethanmad/HyperTyper'
     - text: 'site'
       glyph: 'network-2'
-      url: 'https://ethanmad.github.io'
+      url: 'https://ethanmad.github.io/HyperTyper'
 blurb: 'I created HyperTyper as a cheat for games like TypeRacer et al. in high school as a Chrome extension and bookmarklet. Since then, some part of the Chrome extension API broke and I removed the extension from the Chrome store.  The tool is stil available as a working bookmarklet, though some sites (notably TypeRacer) have implemented defenses against it. The following text is the associated write-up I published along with the project on my original website.'
 
 ---
