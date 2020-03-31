@@ -4,7 +4,7 @@ date: '2019-03-30'
 resources:
     - text: 'cv'
       glyph: 'document-pdf'
-      url: 'EthanMadisonCV.pdf'
+      url: 'EthanMadisonCV-public.pdf'
       title: 'Download my CV as a PDF'
     - text: 'email'
       glyph: 'mail'
