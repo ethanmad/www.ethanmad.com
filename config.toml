@@ -2,10 +2,9 @@ baseurl = "https://www.ethanmad.com/"
 title = "Ethan Madison's website"
 languageCode = "en-us"
 MetaDataFormat = "toml"
-copyright = "Content on this site is [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)"
 theme = "hugo-xmin"
 footnotereturnlinkcontents = "↩"
-PygmentsStyle = "friendly"
+PygmentsStyle = "tango"
 
 [[menu.main]]
     name = "Home"
