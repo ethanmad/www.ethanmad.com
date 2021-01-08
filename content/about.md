@@ -1,6 +1,6 @@
 ---
 title: 'About'
-date: '2019-03-30'
+date: '2021-01-06'
 resources:
     - text: 'cv'
       glyph: 'document-pdf'
@@ -14,10 +14,9 @@ resources:
 
 {{< avatar >}}
 
-I'm Ethan Madison.
-From Los Angeles, I attended the University of Michigan—Ann Arbor, where I received my degree in computer science.  During my time at Michigan, I was a member of the [fencing team](http://umich.edu/~fencing) on which I served as president and captain and won three national championships.  Besides fencing, I also [write code](https://github.com/ethanmad) for fun.  I am passionate about Free software, security, algorithms, and healthcare.
+I'm Ethan Madison. I'm currently a dental student at the Arthur A. Dugoni School of Dentistry in San Francisco. I enjoy programming and building software, and I received a bachelor's degree in  computer science at the University of Michigan. During my time at Michigan, I was a member of the [fencing team](http://umich.edu/~fencing) on which I served as president and captain and won three national championships.
 
-I am back in Los Angeles and am looking for employment!
+I am passionate about Free software, security, algorithms, and healthcare.
 
 <!--more-->
 
@@ -27,6 +26,8 @@ See [Projects](/projects) for a list of my projects.
 ## Connect
 You can contact me or find me through the following:
 
-  - [Email](mailto:hello@ethanmad.com "The best way to reach me.")
-  - [GitHub](https://github.com/ethanmad)
-  - [LinkedIn](https://linkedin.com/in/ethanmadison)
+  - On Signal, if you have my phone number (preferred)
+  - [Email](mailto:hello@ethanmad.com) (preferred)
+  - [Sourcehut](https://sr.ht/~ethanmad "New code repositories")
+  - [GitHub](https://github.com/ethanmad "Older code repositories")
+  - [LinkedIn](https://linkedin.com/in/ethanmadison "Do not message me here")
