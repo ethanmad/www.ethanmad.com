@@ -3,7 +3,7 @@ title: 'In oder Aus'
 Description: "Modern improvements upon and applications of the Bloom filter"
 date: '2019-02-19'
 tags: ['algorithms', 'Bloom filter', 'writing']
-emoji:  ":pencil:"
+emoji:  '🧮'
 resources:
     - text: 'arXiv'
       glyph: 'database'
@@ -20,13 +20,15 @@ blurb: 'In Fall 2018, I took EECS 477 "Introduction to Algorithms" instructed by
 
 I co-wrote an introductory paper on Bloom filters that highlights some iterative and revolutionary improvements, like the [Cuckoo filter](https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf), along with the everyday and novel uses of the algorithm. The paper was published on the arXiv. Read on to learn more about Bloom filters and my paper!
 
-Zach, a friend and teammate of mine, and I decided we were particularly interested in Bloom filters, and, having experience writing research papers, decided to write a survey paper on Bloom filters, including their modern improvements and applications. Inspired by Dr. Pettie's [creative titles](https://ieeexplore.ieee.org/abstract/document/6979047), Zach and I wrote _In oder Aus_ ^[This is, of course, a psuedo-German gibberish resembling a translation of "in or out" (as in, an element's set membership), and a nod to [a legendary comedian](https://www.youtube.com/watch?v=r2lKq794fII).]
+Zach, a friend and teammate of mine, and I decided we were particularly interested in Bloom filters, and, having experience writing research papers, decided to write a survey paper on Bloom filters, including their modern improvements and applications. Inspired by Dr. Pettie's [creative titles](https://ieeexplore.ieee.org/abstract/document/6979047), Zach and I wrote _In oder Aus_[^name].
 
-{{% figure
-src="Bloom_filter.png"
-caption="An example Bloom filter storing the set $\lbrace x,y,z\rbrace$ with hash functions. Each of $x$, $y$, and $z$ is mapped by three unique hash functions to three bits. $w$ is queried by checking the three bits that it hashes to. Since one of $w$'s corresponding bits is unset, the query will return _false_."
-class="figure img.center"
-%}}
+[^name]: This is, of course, a psuedo-German gibberish resembling a translation of "in or out" (as in, an element's set membership), and a nod to [a legendary comedian](https://www.youtube.com/watch?v=r2lKq794fII).]
+
+{{< figure
+    src="Bloom_filter.png"
+    caption="An example Bloom filter storing the set $\lbrace x,y,z\rbrace$ with hash functions. Each of $x$, $y$, and $z$ is mapped by three unique hash functions to three bits. $w$ is queried by checking the three bits that it hashes to. Since one of $w$'s corresponding bits is unset, the query will return _false_."
+    class="figure img.center"
+>}}
 
 As described in the paper, Bloom filters are data structures used to determine set membership of elements in true constant time with reduced memory consumption. A trivial real-world example of Bloom filters in action is browsers checking for malicious URLs; rather than ship a list of millions of URLs to check a URL against (in linear time), browser vendors include a Bloom filter on the order of several megabytes in which the target URL is queried for _quickly_. If the Bloom filter returns "false", the site is safe! (Basically, Bloom filters are the most efficient way to check if something is in a set.)
 

@@ -3,7 +3,7 @@ Description: 'The tool to increase apparent typing speed'
 Tags: ['programming', 'project', 'javascript', 'web']
 date: "2015-05-01T21:04:58-08:00"
 title: 'HyperTyper'
-emoji: ':computer:'
+emoji: '🧑‍💻'
 resources:
     - text: 'code'
       glyph: 'code'

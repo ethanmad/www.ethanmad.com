@@ -1,7 +1,7 @@
 ---
 title: 'How Digital Media is Used to Fight Stigma'
 date: '2018-08-17'
-emoji: ':pencil:'
+emoji: '📄'
 description: 'A research essay on the role of digital media in fighting oppression'
 resources:
     - text: 'paper'
@@ -25,13 +25,13 @@ women's hygiene---particularly that relating to menstruation---
 has life-threatening taboos associated with it.
 Consider the following two excerpts from New York Times articles about stigmatized women in India and Nepal, respectively.
 
-{{% figure
+{{< figure
 src="https://static01.nyt.com/images/2018/05/31/world/00nepal-taboo-8/merlin_136129614_0f939437-a125-4240-a24b-5bdb53d1d0d8-superJumbo.jpg?quality=90&auto=webp"
 caption="\"A chhaupadi hut by firelight at night. Many women keep using them out of pressure and a sense of obligation.\""
 attr="Tara Todras-Whitehall, _New York Times_."
 attrlink="https://www.nytimes.com/2012/12/29/opinion/the-taboo-of-menstruation.html"
 class="figure img.center"
-%}}
+>}}
 
 > ["The taboo of menstruation in India causes real harm. Women in some tribes are forced to live in a cowshed throughout their periods. There are health issues, like infections caused by using dirty rags, and horror stories, like that of one girl who was too embarrassed to ask her mother for a clean cloth, and used one she found without knowing it had lizard eggs in it. According to one of the Yatra outreach workers, the subsequent infection meant her uterus had to be removed when she was 13. She would be forever tainted as a barren woman, so that whoever saw her first in the morning had to take a bath to wash her stain away."][@george_2012]
 
@@ -44,7 +44,7 @@ lethal scorpions [^scorpion],
 and even man-eating beasts [^man-eaters].
 In addition to the physical danger in which the girl is placed, relegation to the cowshed, away from her family, bears shame in and of itself.  Even those who see the girl are ashamed, and feel a need to cleanse themselves, which is a testament to the degree of reproductive stigma in this culture.
 
-[^scorpion]: India and surrounding regions are home to the [world's deadliest scorpion](https://link.springer.com/article/10.1007/BF02761131), [_Hottentotta tamulus_](https://en.wikipedia.org/wiki/Hottentotta_tamulus) (the Indian red scorpion), among several other [highly toxic](https://link.springer.com/article/10.1007/BF02761131) species. Scorpion stings are [not uncommon](https://www.dnaindia.com/india/report-tiger-attacks-on-rise-in-indian-sundarbans-1180734) in these regions, and their true incidence is actually unknown due to underreporting.]
+[^scorpion]: India and surrounding regions are home to the [world's deadliest scorpion](https://link.springer.com/article/10.1007/BF02761131), [_Hottentotta tamulus_](https://en.wikipedia.org/wiki/Hottentotta_tamulus) (the Indian red scorpion), among several other [highly toxic](https://link.springer.com/article/10.1007/BF02761131) species. Scorpion stings are [not uncommon](https://www.dnaindia.com/india/report-tiger-attacks-on-rise-in-indian-sundarbans-1180734) in these regions, and their true incidence is actually unknown due to underreporting.
 
 [^man-eaters]: It may seem ridiculous, but leopards and tigers have killed thousands of Indians in the past century. In 2008, [tigers migrating from Bangladesh to India attacked and killed a number of people in West Bengal](https://www.dnaindia.com/india/report-tiger-attacks-on-rise-in-indian-sundarbans-1180734).
 
