@@ -2,7 +2,7 @@
 title: 'Jellyfin Remote Access with Tailscale'
 Description: 'Set-up guide for Jellyfin or other local services over Tailscale'
 date: '2021-01-07'
-blurb: 'This is a guide on setting up Jellyfin for remote access by yourself & friends using Tailscale with a reverse proxy to get easy-to-rembemer URs like https://jellyfin.ethanmad.com or http://jellyfin. Though this is written about Jellyfin, you can probably follow along for any other local service.'
+blurb: 'This is a guide on setting up Jellyfin for remote access by yourself & friends using Tailscale (for free) with a reverse proxy to get easy-to-rembemer URLs like https://jellyfin.ethanmad.com or http://jellyfin. Though this is written about Jellyfin, you can probably follow along for any other local service.'
 emoji: '🖥️'
 Tags: ['networking', 'self-host']
 ---
@@ -15,6 +15,7 @@ I live with some housemates and don't have access to port forwarding settings on
 With exposing the service to the Internet not an easy option, using a VPN was my next thought.
 
 I had previously heard about [Tailscale](https://tailscale.com), a mesh VPN network using Wireguard. Since it handles NAT-traversal, is free to use, and [BSD-licensed](https://github.com/tailscale/tailscale/blob/main/LICENSE "The network service is non-free, of course. Use plain Wireguard or Nebula if you want control over the network."), this seemed like a perfect solution.[^Tailscale alternatives]
+
 I didn't see any guides about setting up remote access to Jellyfin using Tailscale or similar, so here's mine!
 I'm on Arch Linux, but most steps will be similar regardless of operating system.
 
@@ -32,7 +33,7 @@ I'm on Arch Linux, but most steps will be similar regardless of operating system
 
 Tailscale is a mesh VPN network, which means you can treat remote devices as if they're on your local network. Tailscale assigns each device an [IP address](https://tailscale.com/kb/1033/ip-and-dns-addresses) in the `100.x.y.z` range. Only you (or those you give access) can access your device with the given IP address.
 
-1. [Register for Tailscale](https://login.tailscale.com/start). A free account will work fine.
+1. [Register for Tailscale](https://login.tailscale.com/start). A free ("Solo") account will work fine.
 1. Install the Tailscale app on your server and any clients.
 Enable the VPN with `$ tailscale up` on Linux, or by clicking the toggle on other operating systems.
 1. [Test your connection](https://tailscale.com/kb/1030/next-steps) as described or pinging one of the IP addresses assigned to you. `$ tailscale status` will show IP addresses of all of your connected devices.
