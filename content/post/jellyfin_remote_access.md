@@ -19,7 +19,7 @@ I had previously heard about [Tailscale](https://tailscale.com), a mesh VPN netw
 I didn't see any guides about setting up remote access to Jellyfin using Tailscale or similar, so here's mine!
 I'm on Arch Linux, but most steps will be similar regardless of operating system.
 
-[^Tailscale alternatives]: There are some alternatives to Tailscale you might consider as I did, namely plain [Wireguard](https://www.wireguard.com/), [ZeroTier](https://https://www.zerotier.com/), and [Nebula](https://github.com/slackhq/nebula). I didn't want to configure Wireguard on each device I wanted to share access with, so that was out. ZeroTier's website is broken by my adblockers, so I passed on it. Nebula has a great [set-up guide by Ars Technica](https://arstechnica.com/gadgets/2019/12/how-to-set-up-your-own-nebula-mesh-vpn-step-by-step/), but it's slower than Wireguard and not as polished. That's how I decided on Tailscale, and I'm happy with my choice so far.
+[^Tailscale alternatives]: There are some alternatives to Tailscale you might consider as I did, namely plain [Wireguard](https://www.wireguard.com/), [ZeroTier](https://www.zerotier.com/), and [Nebula](https://github.com/slackhq/nebula). I didn't want to configure Wireguard on each device I wanted to share access with, so that was out. ZeroTier's website is broken by my adblockers, so I passed on it. Nebula has a great [set-up guide by Ars Technica](https://arstechnica.com/gadgets/2019/12/how-to-set-up-your-own-nebula-mesh-vpn-step-by-step/), but it's slower than Wireguard and not as polished. That's how I decided on Tailscale, and I'm happy with my choice so far.
 
 *This post written with some feedback by the Tailscale team after I participated in a survey, but it is not sponsored by Tailscale.*
 
