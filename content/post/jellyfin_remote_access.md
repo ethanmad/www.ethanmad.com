@@ -27,7 +27,9 @@ I'm on Arch Linux, but most steps will be similar regardless of operating system
 
 1. If you haven't installed Jellyfin, follow the [Quick Start](https://jellyfin.org/docs/general/quick-start.html) guide to get going.
     * Don't worry about step 5 (secure the server); we'll get to that.
-    * No, you don't need to use the Networking tab in Jellyfin's settings.
+    * In the Networking settings, find Remote Access Settings. Turn on "Allow remote connections to this server", and set it to work on a Blacklist. Turn off "Enable automatic port mapping". (This seems to be required as of Jellyfin 10.7.x). [^Edit1]
+
+[^Edit1]: Added on 2021-04-14 after I upgraded Jellyfin.
 
 # Tailscale & DNS
 
